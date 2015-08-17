@@ -1,0 +1,15 @@
+item class
+     name string
+     desc string
+     movable bool
+     
+     
+  location 
+    desc string
+    items list<item>
+    exits collection
+    
+  World
+    locations list<locations>
+    inventory array[items]
+    player location int

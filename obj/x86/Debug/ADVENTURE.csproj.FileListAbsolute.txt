@@ -1,0 +1,10 @@
+C:\Users\Daniel Carragher\Music\PIE\bin\Debug\ConsoleApplication.exe
+C:\Users\Daniel Carragher\Music\PIE\bin\Debug\ConsoleApplication.pdb
+C:\Users\Daniel Carragher\Music\PIE\obj\x86\Debug\ADVENTURE.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Carragher\Music\PIE\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Daniel Carragher\Music\PIE\obj\x86\Debug\ConsoleApplication.pdb
+C:\Code\pregoram5 overlord\pregoram5 overlord\PIE\obj\x86\Debug\ConsoleApplication.exe
+C:\Code\pregoram5 overlord\pregoram5 overlord\PIE\obj\x86\Debug\ConsoleApplication.pdb
+C:\Code\pregoram5 overlord\pregoram5 overlord\PIE\bin\Debug\ConsoleApplication.exe
+C:\Code\pregoram5 overlord\pregoram5 overlord\PIE\bin\Debug\ConsoleApplication.pdb
+C:\Code\pregoram5 overlord\pregoram5 overlord\PIE\obj\x86\Debug\ADVENTURE.csprojResolveAssemblyReference.cache
